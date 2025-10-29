@@ -20,7 +20,8 @@ A responsive React + Tailwind app that mimics Flipkart’s cart experience. Buil
 
 ## 📦 Setup
 
-```bash
+```bash<img width="1900" height="867" alt="Screenshot 2025-10-29 152023" src="https://github.com/user-attachments/assets/63413f54-95d1-438f-90fb-45eb1714ee0b" />
+
 cd frontend
 npm install
 npm start
